@@ -79,7 +79,7 @@ xor g6(c6,a,b);
 xnor g7(c7,a,b);
 endmodule 
 ~~~
- Developed by: S.Rohith
+ Developed by: S.Rohith      
  RegisterNumber: 25012185 
  
 **Logic symbol & Truthtable**
@@ -102,5 +102,7 @@ endmodule
 <img width="1920" height="1080" alt="Screenshot 2025-11-13 080837" src="https://github.com/user-attachments/assets/2c8c577c-0488-4ead-89d7-54af38372b67" />
 
 **Result:**
+
+
 Hence, all the truth tables of the logic gates are studied and verified using Quartus II 
 
